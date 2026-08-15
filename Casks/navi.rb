@@ -1,6 +1,6 @@
 cask "navi" do
   version "0.3.1"
-  sha256 "26ba40137d64787eb99fe48e2f21eb94664f969b9a32727dbf307cf37925dc72"
+  sha256 "3f1d0951267c0c925b6d2bb428d370b2183a05c7d9cf93bef2811002e1f04500"
 
   url "https://github.com/HduSy/navi/releases/download/v0.3.1/Navi_0.3.1_aarch64.dmg"
   name "Navi"
