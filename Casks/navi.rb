@@ -7,7 +7,7 @@ cask "navi" do
   desc "AI work companion that observes, remembers, and grows with you"
   homepage "https://github.com/HduSy/navi"
 
-  depends_on macos: ">= :catalina"
+  depends_on macos: :catalina
   depends_on arch: :arm64
 
   app "Navi.app"
