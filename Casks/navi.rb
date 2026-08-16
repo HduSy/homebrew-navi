@@ -1,8 +1,8 @@
 cask "navi" do
-  version "0.3.2"
-  sha256 "6ab7041362629cb15163ad5c04ee4cf189dd2cbe1d8216732fc18b5d04f6aaad"
+  version "0.3.3"
+  sha256 "8a7a2ba54e7d3fa176f7e34abbaa6e27e3ee7f1c4e2670b13ffd5b61337f4fc2"
 
-  url "https://github.com/HduSy/navi/releases/download/v0.3.2/Navi_0.3.2_aarch64.dmg"
+  url "https://github.com/HduSy/navi/releases/download/v0.3.3/Navi_0.3.3_aarch64.dmg"
   name "Navi"
   desc "AI work companion that observes, remembers, and grows with you"
   homepage "https://github.com/HduSy/navi"
